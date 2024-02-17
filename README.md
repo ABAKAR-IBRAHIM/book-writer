@@ -5,6 +5,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 First, run the development server:
 
 ## Running Locally
+https://tella.video/abakars-video-dmhy
+
 
 1. Install dependencies using npm:
 
