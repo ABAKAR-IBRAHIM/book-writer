@@ -4,14 +4,22 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 First, run the development server:
 
-```bash
+## Running Locally
+
+1. Install dependencies using npm:
+
+```sh
+npm install
+```
+2. create .evn in the main folder and copy these variables.
+```sh
+GITHUB_ID=b0dac0e740842e7100ef
+GITHUB_SECRET=6945669558e64ffbbbbdcdbb81c93313c7730e90
+```
+3. Start the development server:
+
+```sh
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
